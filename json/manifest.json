@@ -1,21 +1,22 @@
 {
-  "name": "mastamvan",
-  "short_name": "mastamvan",
-  "start_url": "https://github.com/",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#fff",
-  "theme_color": "#1976d2",
+  "short_name": "Weather",
+  "name": "Weather: Do I need an umbrella?",
+  "description": "Weather forecast information",
   "icons": [
     {
-      "src": "/fluidicon.png",
+      "src": "/images/icons-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/fluidicon.png",
+      "src": "/images/icons-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
-  ]
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
 }

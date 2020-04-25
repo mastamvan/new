@@ -63,3 +63,11 @@ window.emoticonx = (function() {
         b(a)
     }
 })();
+
+jQuery(document).ready(function () {emoticonx({
+emoRange:"#comments p, div.emoWrap",
+putEmoAbove:".list-com",
+topText:"Click to see the code!",
+emoMessage:"To insert emoticon you must added at least one space before the code."
+})
+});

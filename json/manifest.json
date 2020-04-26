@@ -1,7 +1,7 @@
 {
   "name": "mastamvan",
   "short_name": "mastamvan",
-  "start_url": "/",
+  "start_url": "https://indoflowr.blogspot.com",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",

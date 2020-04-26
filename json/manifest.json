@@ -8,12 +8,12 @@
   "theme_color": "#1976d2",
   "icons": [
     {
-      "src": "/favicon.ico",
+      "src": "https://indoflowr.blogspot.com/favicon.ico",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/favicon.ico",
+      "src": "https://indoflowr.blogspot.com/favicon.ico",
       "type": "image/png",
       "sizes": "512x512"
     }

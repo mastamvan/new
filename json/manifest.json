@@ -1,19 +1,19 @@
 {
   "name": "mastamvan",
   "short_name": "mastamvan",
-  "start_url": "https://github.com",
+  "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
   "theme_color": "#1976d2",
   "icons": [
     {
-      "src": "/fluidicon.png",
+      "src": "/favicon.ico",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/fluidicon.png",
+      "src": "/favicon.ico",
       "type": "image/png",
       "sizes": "512x512"
     }

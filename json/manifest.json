@@ -1,16 +1,20 @@
 {
-  "name": "mastamvan",
+  "name": "Blog Mas Tamvan",
   "short_name": "mastamvan",
-  "start_url": "https://indoflowr.blogspot.com",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#fff",
-  "theme_color": "#1976d2",
   "icons": [
     {
-      "src": "https://indoflowr.blogspot.com/favicon.ico",
-      "type": "image/png",
-      "sizes": "16x16"
+      "src": "https://2.bp.blogspot.com/--xaIf5Qqpz8/XqUvlepyoHI/AAAAAAAACSY/NygsCrxCQI8MobfuSNrm7jn-pPRYKfFAgCLcBGAsYHQ/s192/mas-tamvan-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/--xaIf5Qqpz8/XqUvlepyoHI/AAAAAAAACSY/NygsCrxCQI8MobfuSNrm7jn-pPRYKfFAgCLcBGAsYHQ/s515/mas-tamvan-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
-  ]
+  ],
+  "theme_color": "#1976d2",
+  "background_color": "#FFF",
+  "display": "standalone",
+  "start_url": "https://blogspot.com"
 }

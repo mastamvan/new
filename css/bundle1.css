@@ -61,3 +61,4 @@ div#top-continue,.loadmore{text-align:right}
 .comment-replybox-thread,.comment-replybox-single{margin-left:5.625em;background-color:#ffffff;border-radius:0.375em;text-align:center}
 .comment-replybox-single{margin-left:10.625em}
 .comment-replybox-thread iframe,.comment-replybox-single iframe{width:90%;margin:0 5%}
+#related-post,#comments{display:block}

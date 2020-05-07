@@ -1,0 +1,38 @@
+body[data-theme="night"],
+body[data-theme="night"] a,
+body[data-theme="night"] .side-nav i{
+    color:var(--white) !important;
+}
+body[data-theme="night"],
+body[data-theme="night"] nav.indigo{
+    background-color: var(--gray-dark4) !important
+}
+
+body[data-theme="night"] nav,
+body[data-theme="night"] .side-nav{
+    background-color: var(--gray-dark3) !important;
+}
+
+body[data-theme="night"] h1.post-title.entry-title,
+body[data-theme="night"] #SIDEBAR .tabs,
+body[data-theme="night"] .collapsible-body{
+    background-color: var(--gray-dark2);
+}
+
+body[data-theme="night"] #SIDEBAR .collection *,
+body[data-theme="night"] .articleBody,
+body[data-theme="night"] #SIDEBAR .tabs .indicator,
+body[data-theme="night"] .fixed-action-btn.active,
+body[data-theme="night"] .btn-floating,
+body[data-theme="night"] .modal,
+body[data-theme="night"] .collection .collection-item{
+    background-color: var(--gray-dark3) !important;
+}
+
+body[data-theme="night"] #SIDEBAR .collection,
+body[data-theme="night"] #SIDEBAR .collection li,
+body[data-theme="night"] #SIDEBAR .tabs .indicator,
+body[data-theme="night"] .collection,
+body[data-theme="night"] .collection .collection-item{
+    border-color:var(--gray-dark2)
+}

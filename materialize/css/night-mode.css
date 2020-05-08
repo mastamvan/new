@@ -14,7 +14,8 @@ body[data-theme="night"] h1.post-title.entry-title,
 body[data-theme="night"] #SIDEBAR .tabs,
 body[data-theme="night"] .collapsible-body,
 body[data-theme="night"] .chip,
-body[data-theme="night"] img.lazy{
+body[data-theme="night"] img.lazy,
+body[data-theme="night"] #related-post h2{
     background-color: var(--gray-dark2) !important
 }
 
@@ -28,7 +29,9 @@ body[data-theme="night"] .collection .collection-item,
 body[data-theme="night"] .card,
 body[data-theme="night"] .card .card-reveal,
 body[data-theme="night"] nav,
-body[data-theme="night"] .side-nav{
+body[data-theme="night"] .side-nav,
+body[data-theme="night"] #comments .comment,
+body[data-theme="night"] #comments .comment-form{
     background-color: var(--gray-dark3) !important
 }
 

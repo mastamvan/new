@@ -2,6 +2,8 @@ body[data-theme="night"]{
     color:var(--gray-lighten-2)
 }
 body[data-theme="night"] a,
+body[data-theme="night"] .chip,
+body[data-theme="night"] .card-title,
 body[data-theme="night"] i.material-icons{
     color:var(--white) !important
 }
@@ -12,8 +14,11 @@ body[data-theme="night"]{
 body[data-theme="night"] nav,
 body[data-theme="night"] .modal,
 body[data-theme="night"] .btn,
+body[data-theme="night"] .chip,
+body[data-theme="night"] #blog-pager a,
 body[data-theme="night"] .btn-large,
-body[data-theme="night"] .side-nav{
+body[data-theme="night"] .side-nav,
+body[data-theme="night"] .page-footer{
     background-color: var(--gray-darken-3) !important
 }
 
@@ -25,11 +30,13 @@ body[data-theme="night"] .collection-item,
 body[data-theme="night"] .collection-header,
 body[data-theme="night"] h1.post-title,
 body[data-theme="night"] .card,
+body[data-theme="night"] .card .card-reveal,
 body[data-theme="night"] #comments .comment,
 body[data-theme="night"] #comments .comment-form,
 body[data-theme="night"] .side-nav .collapsible-body,
 body[data-theme="night"] .side-nav.fixed .collapsible-body,
-body[data-theme="night"] .input-field input[type=search]:focus{
+body[data-theme="night"] .input-field input[type=search]:focus,
+body[data-theme="night"] .footer-copyright{
     background-color: var(--gray-darken-2) !important
 }
 

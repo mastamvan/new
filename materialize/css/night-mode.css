@@ -15,6 +15,7 @@ body[data-theme="night"] nav,
 body[data-theme="night"] .modal,
 body[data-theme="night"] .btn,
 body[data-theme="night"] .chip,
+body[data-theme="night"] img.lazy,
 body[data-theme="night"] #blog-pager a,
 body[data-theme="night"] .btn-large,
 body[data-theme="night"] .side-nav,
@@ -24,6 +25,7 @@ body[data-theme="night"] .page-footer{
 
 body[data-theme="night"] .articleBody,
 body[data-theme="night"] .contentBody,
+body[data-theme="night"] .share-button.in-post,
 body[data-theme="night"] .tabs,
 body[data-theme="night"] .divider,
 body[data-theme="night"] .collection-item,
@@ -37,7 +39,8 @@ body[data-theme="night"] #comments .comment-form,
 body[data-theme="night"] .side-nav .collapsible-body,
 body[data-theme="night"] .side-nav.fixed .collapsible-body,
 body[data-theme="night"] .input-field input[type=search]:focus,
-body[data-theme="night"] .footer-copyright{
+body[data-theme="night"] .footer-copyright,
+body[data-theme="night"] .about-me .card-image:after{
     background-color: var(--gray-darken-2) !important
 }
 
